@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Its master");
 
+        System.out.println("All is okey too");
+
     }
 }
