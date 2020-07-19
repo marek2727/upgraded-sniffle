@@ -8,7 +8,7 @@ public class Main {
 
         System.out.println("Its master");
 
-        System.out.println("There bug");
+        System.out.println("Fixed bug");
 
         System.out.println("All is okey too");
 
