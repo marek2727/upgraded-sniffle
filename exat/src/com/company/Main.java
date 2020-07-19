@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("Its master");
 
+        System.out.println("End of programm");
+
     }
 }
