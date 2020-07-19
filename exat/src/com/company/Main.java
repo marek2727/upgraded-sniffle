@@ -8,6 +8,8 @@ public class Main {
 
         System.out.println("Its master");
 
+        System.out.println("There bug");
+
         System.out.println("All is okey too");
 
         System.out.println("End of programm");
